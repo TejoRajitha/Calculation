@@ -6,7 +6,7 @@ public class CalculateTest {
 		
 		Calculate c=new Calculate();
 		c.add();
-		c.sum();
+		//c.sum();
 
 	}
 

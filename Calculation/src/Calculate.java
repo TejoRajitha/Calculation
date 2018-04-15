@@ -12,12 +12,12 @@ public class Calculate
 		
 	}
 	
-	public void sum()
+	/*public void sum()
 	{
 		c=a-b;
 		System.out.println("sub of two numbers is:"+c);
 		
-	}
+	}*/
 	
 
 }
